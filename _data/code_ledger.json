@@ -73,8 +73,8 @@
     },
     {
       "project": "event-streams",
-      "repo": "ln2149-event-streams",
-      "status": "empty",
+      "repo": null,
+      "status": "missing",
       "files_previewed": "0 of 0",
       "pages": "1/1",
       "preview_last": null,
@@ -87,12 +87,17 @@
     },
     {
       "project": "scene-graph-reasoning",
-      "repo": "ln2149-scene-graphs",
-      "status": "released",
-      "files_previewed": "18 of 18",
+      "repo": null,
+      "status": "missing",
+      "files_previewed": "0 of 0",
       "pages": "1/1",
-      "preview_last": "tests/test_model.py",
-      "signature_missing": []
+      "preview_last": null,
+      "signature_missing": [
+        "requirements.txt",
+        "src/model.py",
+        "src/rollout.py",
+        "src/train.py"
+      ]
     }
   ]
 }

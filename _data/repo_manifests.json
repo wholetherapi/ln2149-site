@@ -123,25 +123,6 @@
     "tests/test_dataset.py",
     "tests/test_model.py"
   ],
-  "event-streams": [],
-  "scene-graph-reasoning": [
-    "LICENSE",
-    "README.md",
-    "configs/default.yaml",
-    "configs/experiments/main.yaml",
-    "data/README.md",
-    "docs/setup.md",
-    "requirements.txt",
-    "scripts/prepare_data.py",
-    "scripts/run_experiments.sh",
-    "src/__init__.py",
-    "src/dataset.py",
-    "src/metrics.py",
-    "src/model.py",
-    "src/rollout.py",
-    "src/train.py",
-    "src/utils.py",
-    "tests/test_dataset.py",
-    "tests/test_model.py"
-  ]
+  "event-streams": null,
+  "scene-graph-reasoning": null
 }

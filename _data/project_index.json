@@ -30,12 +30,12 @@
     "venue": "ICRA 2026"
   },
   "event-streams": {
-    "repo": "ln2149-event-streams",
+    "repo": null,
     "title": "Event Streams for Low-Latency Video Understanding",
     "venue": "ECCV 2026"
   },
   "scene-graph-reasoning": {
-    "repo": "ln2149-scene-graphs",
+    "repo": null,
     "title": "Compositional Scene Graph Reasoning with Sparse Supervision",
     "venue": "NeurIPS 2025"
   }
