@@ -8,7 +8,6 @@ date: "2026-04-18"
 venue: "COLM 2026"
 paperurl: "https://example.org/papers/sparse-roads.pdf"
 citation: "Jennifer Baker, Priya Raman, Tomas Lindqvist. \"Sparse Roadside Perception with Event-Cued Tokens.\" COLM 2026."
-codeurl: "https://github.com/wholetherapi/ln2149-sparse-roads"
 ---
 
 Accepted at COLM 2026. The camera-ready version and supplementary material will be posted here.
