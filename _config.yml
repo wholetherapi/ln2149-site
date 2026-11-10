@@ -1,0 +1,8 @@
+title: Jennifer Baker
+description: Research notes and publications
+baseurl: ""
+url: "https://example.org"
+markdown: kramdown
+collections:
+  publications:
+    output: true

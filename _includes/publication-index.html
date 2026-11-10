@@ -1,0 +1,5 @@
+<div class="publication-list">
+{% for entry in site.publications reversed %}
+  {% include entry-card.html entry=entry %}
+{% endfor %}
+</div>

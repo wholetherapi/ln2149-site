@@ -1,0 +1,98 @@
+{
+  "generated_by": "scripts/build_code_ledger.py",
+  "as_of": "2026-11-08",
+  "page_size": 32,
+  "projects": [
+    {
+      "project": "sparse-roads",
+      "repo": "ln2149-sparse-roads",
+      "status": "released",
+      "files_previewed": "18 of 18",
+      "pages": "1/1",
+      "preview_last": "tests/test_model.py",
+      "signature_missing": []
+    },
+    {
+      "project": "rivercast",
+      "repo": "ln2149-rivercast",
+      "status": "pending",
+      "files_previewed": "32 of 36",
+      "pages": "1/2",
+      "preview_last": "src/rollout.py",
+      "signature_missing": [
+        "src/train.py"
+      ]
+    },
+    {
+      "project": "causal-bandits",
+      "repo": "ln2149-causal-bandits",
+      "status": "released",
+      "files_previewed": "18 of 18",
+      "pages": "1/1",
+      "preview_last": "tests/test_model.py",
+      "signature_missing": []
+    },
+    {
+      "project": "mosaic-diffusion",
+      "repo": "ln2149-mosaic-diffusion",
+      "status": "pending",
+      "files_previewed": "5 of 5",
+      "pages": "1/1",
+      "preview_last": "src/.gitkeep",
+      "signature_missing": [
+        "requirements.txt",
+        "src/model.py",
+        "src/rollout.py",
+        "src/train.py"
+      ]
+    },
+    {
+      "project": "graph-sampling",
+      "repo": null,
+      "status": "missing",
+      "files_previewed": "0 of 0",
+      "pages": "1/1",
+      "preview_last": null,
+      "signature_missing": [
+        "requirements.txt",
+        "src/model.py",
+        "src/rollout.py",
+        "src/train.py"
+      ]
+    },
+    {
+      "project": "tactile-slip",
+      "repo": "ln2149-tactile-slip",
+      "status": "pending",
+      "files_previewed": "32 of 36",
+      "pages": "1/2",
+      "preview_last": "src/rollout.py",
+      "signature_missing": [
+        "src/train.py"
+      ]
+    },
+    {
+      "project": "event-streams",
+      "repo": "ln2149-event-streams",
+      "status": "empty",
+      "files_previewed": "0 of 0",
+      "pages": "1/1",
+      "preview_last": null,
+      "signature_missing": [
+        "requirements.txt",
+        "src/model.py",
+        "src/rollout.py",
+        "src/train.py"
+      ]
+    },
+    {
+      "project": "scene-graph-reasoning",
+      "repo": "ln2149-scene-graphs",
+      "status": "released",
+      "files_previewed": "18 of 18",
+      "pages": "1/1",
+      "preview_last": "tests/test_model.py",
+      "signature_missing": []
+    }
+  ]
+}

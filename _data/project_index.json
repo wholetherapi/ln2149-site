@@ -1,0 +1,42 @@
+{
+  "sparse-roads": {
+    "repo": "ln2149-sparse-roads",
+    "title": "Sparse Roadside Perception with Event-Cued Tokens",
+    "venue": "COLM 2026"
+  },
+  "rivercast": {
+    "repo": "ln2149-rivercast",
+    "title": "RiverCast: Basin-Scale Streamflow Nowcasting with Gated Recurrent Mixtures",
+    "venue": "KDD 2026"
+  },
+  "causal-bandits": {
+    "repo": "ln2149-causal-bandits",
+    "title": "Causal Contextual Bandits under Latent Confounding",
+    "venue": "AISTATS 2026"
+  },
+  "mosaic-diffusion": {
+    "repo": "ln2149-mosaic-diffusion",
+    "title": "Mosaic Diffusion for Composable Scene Editing",
+    "venue": "CVPR 2026"
+  },
+  "graph-sampling": {
+    "repo": null,
+    "title": "Unbiased Neighborhood Sampling for Large Graphs",
+    "venue": "WWW 2026"
+  },
+  "tactile-slip": {
+    "repo": "ln2149-tactile-slip",
+    "title": "Tactile Slip Detection with Low-Cost Optical Sensors",
+    "venue": "ICRA 2026"
+  },
+  "event-streams": {
+    "repo": "ln2149-event-streams",
+    "title": "Event Streams for Low-Latency Video Understanding",
+    "venue": "ECCV 2026"
+  },
+  "scene-graph-reasoning": {
+    "repo": "ln2149-scene-graphs",
+    "title": "Compositional Scene Graph Reasoning with Sparse Supervision",
+    "venue": "NeurIPS 2025"
+  }
+}

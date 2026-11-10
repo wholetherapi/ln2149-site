@@ -1,0 +1,8 @@
+<article class="entry">
+  <h3>{{ include.entry.title }}</h3>
+  <p class="venue">{{ include.entry.venue }}</p>
+  <p class="citation">{{ include.entry.citation }}</p>
+  {% if include.entry.codeurl %}
+  <a class="btn" href="{{ include.entry.codeurl }}">Code</a>
+  {% endif %}
+</article>
